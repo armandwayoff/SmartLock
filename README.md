@@ -4,4 +4,4 @@
 
 ### Vidéo du verrou en action 
 
-[![illustration video](illustration_video/miniature_video.png)](illustration_video/video-verrou.mp4)
+[![illustration video](illustration_video/miniature_video.png)](https://armand-wayoff.com/electronique/verrou#2)
