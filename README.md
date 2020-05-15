@@ -1,7 +1,7 @@
-# Verrou Bluetooth
+# Bluetooth Lock
 
-## Verrou de porte connecté permettant de fermer et d’ouvrir une porte à distance via une télécommande
+Connected door lock to close and open a door via a remote control
 
-### Vidéo du verrou en action 
+## Video of the Bluetooth Lock 
 
 [![illustration video](illustration_video/miniature_video.png)](https://armand-wayoff.com/electronique/verrou#2)
