@@ -1,4 +1,4 @@
-# 🔒 Bluetooth Lock
+# SmartLock
 
 Connected door lock to close and open a door via a remote control
 
