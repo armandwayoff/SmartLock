@@ -1,3 +1,5 @@
+[![made-with-arduino](https://img.shields.io/badge/Made_with-Arduino-00878F.svg)](https://www.arduino.cc/)
+
 # SmartLock
 
 Connected door lock to close and open a door via a remote control
